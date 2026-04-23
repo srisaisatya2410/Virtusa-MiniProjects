@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Online Quiz  and Assessment System_609faec0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Online Quiz & Assessment System_f00c29b7"
+        },
+        {
+            "name": "Attach",
+            "port": 9229,
+            "request": "attach",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        }
+    ]
+}
