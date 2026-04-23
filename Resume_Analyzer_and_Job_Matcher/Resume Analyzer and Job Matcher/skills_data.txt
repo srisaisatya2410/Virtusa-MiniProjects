@@ -1,0 +1,11 @@
+Python
+Java
+SQL
+Html
+CSS
+Javascript
+Data Analysis
+Artificial Intelligence
+Machine Learning
+Cloud And DevOps
+
